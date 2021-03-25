@@ -1,0 +1,4 @@
+searxcli
+vgcore.*
+*.o
+*.orig
